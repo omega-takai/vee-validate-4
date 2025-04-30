@@ -44,5 +44,16 @@
     "vite-plugin-vue-devtools": "^7.7.2",
     "vitest": "^3.1.1",
     "vue-tsc": "^2.2.8"
+  },
+  "engines": {
+    "bun": "please-use-pnpm",
+    "node": ">=22",
+    "npm": "please-use-pnpm",
+    "pnpm": ">=10",
+    "yarn": "please-use-pnpm"
+  },
+  "volta": {
+    "node": "22.15.0",
+    "pnpm": "10.10.0"
   }
 }
